@@ -25,10 +25,17 @@ Let’s connect and explore how data can drive smarter strategies, better produc
 
 ---
 
+## 📊 My GitHub Stats & Insights
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkizoObo&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SkizoObo&theme=tokyonight&hide_border=true"/>
+  <!-- General GitHub stats -->
+  [![Skizo Obo’s GitHub stats](https://readme-github-stats.vercel.app/api?username=SkizoObo&show_icons=true&theme=tokyonight)](https://github.com/SkizoObo)  
+  <!-- Top languages used -->
+  [![Top Languages](https://readme-github-stats.vercel.app/api/top-langs/?username=SkizoObo&layout=compact&theme=tokyonight)](https://github.com/SkizoObo)  
 </div>
+
+> These cards are powered by the github-readme-stats tool.  
+:contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -42,40 +49,29 @@ Let’s connect and explore how data can drive smarter strategies, better produc
 
 ---
 
-## 🧠 Dynamic Skill Graph
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkizoObo&layout=compact&theme=tokyonight" width="48%">
-  <img src="https://raw.githubusercontent.com/SkizoObo/SkizoObo/main/assets/skills-animated.svg" width="48%" alt="Skill Progress Animation">
-</p>
-
-> *Visualized skill progression — updated automatically as I grow.*
-
----
-
 ## 🛠️ Technology Arsenal
 
-### 💻 Core Languages
+### 💻 Core Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,js" />
+  <img src="https://skillicons.dev/icons?i=python,sql,r,js" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,flask,fastapi,streamlit" />
 </p>
 
-### ☁️ Cloud, DevOps & MLOps
+### ☁️ Cloud, DevOps & MLOps  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,git,linux" />
 </p>
 
-### 📊 Data Visualization & BI Tools
+### 📊 Data Visualization & BI Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=powerbi,tableau,matplotlib,plotly" />
 </p>
 
-### 🗃️ Databases
+### 🗄️ Databases  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
 </p>
@@ -96,22 +92,22 @@ Let’s connect and explore how data can drive smarter strategies, better produc
 
 <div align="center">
 
-### 📈 [Business Insights Dashboard](repo-link)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SkizoObo&repo=REPO_NAME&theme=tokyonight)](repo-link)
+### 📈 [Business Insights Dashboard](https://github.com/SkizoObo/business-insights)
+[![Repo Card](https://readme-github-stats.vercel.app/api/pin/?username=SkizoObo&repo=business-insights&theme=tokyonight)](https://github.com/SkizoObo/business-insights)  
 **Tech Stack:** SQL • Power BI • Python • DAX  
-*A storytelling-driven dashboard translating retail KPIs into strategic actions.*
+*A storytelling-driven dashboard translating retail KPIs into strategic action.*
 
 ---
 
-### 🤖 [Predictive Maintenance Model](repo-link)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SkizoObo&repo=REPO_NAME&theme=tokyonight)](repo-link)
+### 🤖 [Predictive Maintenance Model](https://github.com/SkizoObo/predictive-maintenance)
+[![Repo Card](https://readme-github-stats.vercel.app/api/pin/?username=SkizoObo&repo=predictive-maintenance&theme=tokyonight)](https://github.com/SkizoObo/predictive-maintenance)  
 **Tech Stack:** Scikit-learn • Azure ML • FastAPI  
 *A predictive model preventing equipment failure through IoT data insights.*
 
 ---
 
-### 🧠 [AI Learning Tracker — 100 Days of Data](repo-link)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SkizoObo&repo=REPO_NAME&theme=tokyonight)](repo-link)
+### 🧠 [AI Learning Tracker — 100 Days of Data](https://github.com/SkizoObo/100-days-of-data)
+[![Repo Card](https://readme-github-stats.vercel.app/api/pin/?username=SkizoObo&repo=100-days-of-data&theme=tokyonight)](https://github.com/SkizoObo/100-days-of-data)  
 **Tech Stack:** Streamlit • SQLite • Python  
 *An interactive dashboard visualizing continuous learning and project milestones.*
 
@@ -119,22 +115,22 @@ Let’s connect and explore how data can drive smarter strategies, better produc
 
 ---
 
-## 🧾 Certifications
-- 🧠 Microsoft Certified: **Azure Data Scientist Associate (DP-100)**
-- 📊 Google Data Analytics Professional Certificate
-- 🥇 IBM Data Science Specialization (Coursera)
-- 🧩 Tableau Advanced Visualization Certificate
+## 🧾 Certifications  
+- 🧠 Microsoft Certified: **Azure Data Scientist Associate (DP-100)**  
+- 📊 Google Data Analytics Professional Certificate  
+- 🥇 IBM Data Science Specialization (Coursera)  
+- 🧩 Tableau Advanced Visualization Certificate  
 
 ---
 
-## ✍️ Latest Blog Posts
-- 📘 [ETL vs ELT: Choosing the Right Flow for Modern Data Pipelines](blog-link)
-- 🤖 [Deploying ML Models on Azure with FastAPI](blog-link)
-- 📈 [Turning Data into Stories: Designing for Impact](blog-link)
+## ✍️ Latest Blog Posts  
+- 📘 [ETL vs ELT: Choosing the Right Flow for Modern Data Pipelines](blog-link)  
+- 🤖 [Deploying ML Models on Azure with FastAPI](blog-link)  
+- 📈 [Turning Data into Stories: Designing for Impact](blog-link)  
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2025 Goals  
 - 🚀 Publish 10+ open-source projects in MLOps & Visualization  
 - 📚 Complete an Advanced Deep Learning specialization  
 - 🌟 Mentor upcoming data scientists through community projects  
@@ -142,36 +138,28 @@ Let’s connect and explore how data can drive smarter strategies, better produc
 
 ---
 
-## 🌐 Let’s Connect
-
+## 🌐 Let’s Connect  
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
+  [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 </div>
 
 ---
 
-## ☕ Support My Work
-
+## ☕ Support My Work  
 If my data projects help or inspire you, consider supporting:
 
 <div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/SkizoObo)
-
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)  
+  [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/SkizoObo)  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SkizoObo&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
-  ### 🚀 “I don’t just talk about data — I show you how to make it work.”
-  
+  <img src="https://komarev.com/ghpvc/?username=SkizoObo&color=blueviolet&style=for-the-badge&label=Profile+Views"/>  
+  ### 🚀 “I don’t just talk about data — I show you how to make it work.”  
   <sub>⭐ Star the repos that inspire you — every dataset tells a story.</sub>
 </div>
