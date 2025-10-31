@@ -1,121 +1,148 @@
-# Hi there! 👋
+# Hi there! 🧠 I'm Skizo Obo
 
-I'm **Skizo Obo**, a passionate **Data Scientist** and **AI Storyteller** with a mission to make data **simple, actionable, and impactful**.  
-I don’t just talk about data — I show you how to make it work.
-
----
-
-## 🧠 About Me
-
-I’m a **data-driven professional** who thrives at the intersection of **analytics, machine learning, and storytelling**.  
-Based in **Canada 🇨🇦**, I specialize in turning complex datasets into **clear, strategic insights** and **interactive visual experiences**.  
-
-💼 Currently exploring: **MLOps, Azure ML, and FastAPI**  
-🎯 Focused on: **Deploying intelligent systems that bridge data and business**  
-⚡ Fun fact: I once predicted coffee demand using weather patterns ☕🌦️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Data+Scientist;Machine+Learning+Engineer;AI+Storyteller;Transforming+Data+into+Business+Value)](https://git.io/typing-svg)
 
 ---
 
-## 🧬 Data in Motion
+## 🧬 Data in Motion — My Story in Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SkizoObo/SkizoObo/main/assets/dataflow-animated.svg" alt="Animated Data Flow" width="90%">
+  <img src="https://raw.githubusercontent.com/SkizoObo/SkizoObo/main/assets/dataflow-animated.svg" alt="Data Flow Animation" width="90%">
 </p>
 
-> “Every dataset has a heartbeat — I design systems that make it visible.”
+> *“Every dataset has a story — my mission is to help it speak.”*
 
 ---
 
-## 🧰 Skills & Technologies
+## 🚀 About Me
 
-### 💻 Languages
-`Python` · `SQL` · `R` · `JavaScript`
+Hey there! I'm **Skizo Obo**, a data scientist who turns raw data into actionable intelligence.  
+I believe great insights don’t just inform — they **inspire action**.  
+Through advanced analytics, machine learning, and data storytelling, I craft experiences where **data meets design**.
 
-### ⚙️ Frameworks & Libraries
-`Scikit-learn` · `TensorFlow` · `PyTorch` · `Streamlit` · `FastAPI` · `Flask`
-
-### ☁️ Tools & Platforms
-`Azure ML` · `Docker` · `GitHub Actions` · `Power BI` · `Tableau` · `Linux`
-
-### 🗃️ Databases
-`PostgreSQL` · `MySQL` · `MongoDB` · `SQLite`
+💡 My mission: **Make data simple, actionable, and impactful.**  
+Let’s connect and explore how data can drive smarter strategies, better products, and scalable growth.
 
 ---
-
-## 📊 Dynamic Skill Visualization
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkizoObo&layout=compact&theme=tokyonight" width="48%">
-  <img src="https://raw.githubusercontent.com/SkizoObo/SkizoObo/main/assets/skills-animated.svg" width="48%" alt="Skill Animation">
-</p>
-
-> *My technical growth — visualized dynamically.*
-
----
-
-## 🚀 Top Projects
-
-### [📈 Business Insights Dashboard](https://github.com/SkizoObo/business-insights)
-> **Tech Stack:** SQL • Power BI • Python  
-> A storytelling-driven dashboard translating KPIs into strategic decisions.  
-**Stars:** 5 ⭐ | **Language:** Python | **Forks:** 2 | **Open Issues:** 0  
-
----
-
-### [🤖 Predictive Maintenance Model](https://github.com/SkizoObo/predictive-maintenance)
-> **Tech Stack:** Scikit-learn • Azure ML • FastAPI  
-> A predictive model that prevents equipment failure using IoT and ML.  
-**Stars:** 3 ⭐ | **Language:** Python | **Forks:** 1 | **Open Issues:** 0  
-
----
-
-### [🧠 100 Days of Data Science Challenge](https://github.com/SkizoObo/100-days-of-data)
-> **Tech Stack:** Streamlit • Pandas • SQLite  
-> A learning tracker and interactive dashboard showcasing my data journey.  
-**Stars:** 2 ⭐ | **Language:** Python | **Forks:** 0 | **Open Issues:** 0  
-
----
-
-## 📈 GitHub Stats
-
-🔹 **Public Repositories:** 18  
-🔹 **Followers:** 150  
-🔹 **Following:** 80  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkizoObo&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SkizoObo&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkizoObo&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SkizoObo&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## 🧩 Recent Activity
+## 🎯 Current Focus
 
-- 🏗️ Created a new project: [AI Learning Tracker](https://github.com/SkizoObo/AI-Learning-Tracker)
-- 📊 Updated: [Business Insights Dashboard](https://github.com/SkizoObo/business-insights)
-- 🤖 Pushed ML model refinements: [Predictive Maintenance Model](https://github.com/SkizoObo/predictive-maintenance)
-- ✍️ Writing article: “Turning Data Into Stories — Designing for Impact”
+- 🔭 Working on: **Deploying ML models using Azure ML + FastAPI**
+- 🌱 Learning: **MLOps, Databricks, and scalable pipelines**
+- 👯 Collaborating on: **Data storytelling dashboards & open ML frameworks**
+- 💬 Ask me about: **ETL design, SQL optimization, predictive analytics, and visualization**
+- ⚡ Fun fact: I once built a model that predicted coffee demand by weather ☕🌦️
 
 ---
 
-## ✍️ Latest Blog Posts
+## 🧠 Dynamic Skill Graph
 
-- 📘 [ETL vs ELT: Choosing the Right Flow for Modern Pipelines](https://medium.com/@yourusername)
-- 🤖 [Deploying ML Models on Azure with FastAPI](https://medium.com/@yourusername)
-- 🎨 [The Art of Data Storytelling: Making Insights Stick](https://medium.com/@yourusername)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkizoObo&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://raw.githubusercontent.com/SkizoObo/SkizoObo/main/assets/skills-animated.svg" width="48%" alt="Skill Progress Animation">
+</p>
+
+> *Visualized skill progression — updated automatically as I grow.*
+
+---
+
+## 🛠️ Technology Arsenal
+
+### 💻 Core Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,sql,js" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,flask,fastapi,streamlit" />
+</p>
+
+### ☁️ Cloud, DevOps & MLOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,git,linux" />
+</p>
+
+### 📊 Data Visualization & BI Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,matplotlib,plotly" />
+</p>
+
+### 🗃️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
+
+---
+
+## 📊 Skill Evolution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SkizoObo/SkizoObo/main/assets/skill-growth-bar.svg" width="85%" alt="Skill Growth Bar Animation">
+</p>
+
+> *A visual journey — from Python scripts to end-to-end AI systems.*
+
+---
+
+## 🧩 Featured Projects
+
+<div align="center">
+
+### 📈 [Business Insights Dashboard](repo-link)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SkizoObo&repo=REPO_NAME&theme=tokyonight)](repo-link)
+**Tech Stack:** SQL • Power BI • Python • DAX  
+*A storytelling-driven dashboard translating retail KPIs into strategic actions.*
+
+---
+
+### 🤖 [Predictive Maintenance Model](repo-link)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SkizoObo&repo=REPO_NAME&theme=tokyonight)](repo-link)
+**Tech Stack:** Scikit-learn • Azure ML • FastAPI  
+*A predictive model preventing equipment failure through IoT data insights.*
+
+---
+
+### 🧠 [AI Learning Tracker — 100 Days of Data](repo-link)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SkizoObo&repo=REPO_NAME&theme=tokyonight)](repo-link)
+**Tech Stack:** Streamlit • SQLite • Python  
+*An interactive dashboard visualizing continuous learning and project milestones.*
+
+</div>
 
 ---
 
 ## 🧾 Certifications
-
-- 🎓 Microsoft Certified: **Azure Data Scientist Associate (DP-100)**  
-- 📊 Google Data Analytics Professional Certificate  
-- 🧠 IBM Data Science Specialization  
-- 🪶 Tableau Advanced Visualization  
+- 🧠 Microsoft Certified: **Azure Data Scientist Associate (DP-100)**
+- 📊 Google Data Analytics Professional Certificate
+- 🥇 IBM Data Science Specialization (Coursera)
+- 🧩 Tableau Advanced Visualization Certificate
 
 ---
 
-## 🌐 Connect with Me
+## ✍️ Latest Blog Posts
+- 📘 [ETL vs ELT: Choosing the Right Flow for Modern Data Pipelines](blog-link)
+- 🤖 [Deploying ML Models on Azure with FastAPI](blog-link)
+- 📈 [Turning Data into Stories: Designing for Impact](blog-link)
+
+---
+
+## 🎯 2025 Goals
+- 🚀 Publish 10+ open-source projects in MLOps & Visualization  
+- 📚 Complete an Advanced Deep Learning specialization  
+- 🌟 Mentor upcoming data scientists through community projects  
+- 🧠 Launch a “Data Simplified” YouTube series  
+
+---
+
+## 🌐 Let’s Connect
 
 <div align="center">
 
@@ -130,23 +157,21 @@ Based in **Canada 🇨🇦**, I specialize in turning complex datasets into **cl
 
 ## ☕ Support My Work
 
-If my projects inspire you, consider supporting me 💙  
+If my data projects help or inspire you, consider supporting:
 
 <div align="center">
-  <a href="https://buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  <a href="https://github.com/sponsors/SkizoObo">
-    <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors">
-  </a>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
+[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/SkizoObo)
+
 </div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SkizoObo&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-  
-  ### 🎯 “Data is only powerful when it tells a story.”
+
+  ### 🚀 “I don’t just talk about data — I show you how to make it work.”
   
   <sub>⭐ Star the repos that inspire you — every dataset tells a story.</sub>
 </div>
