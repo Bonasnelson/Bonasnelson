@@ -28,15 +28,15 @@ Contribute to open-source projects focused on reproducible data science workflow
 
 ## 👀 **I'm interested in**
 
-🧠 AI & Machine Learning — predictive modeling, NLP, and real-world deployment.
+🧠 AI & Machine Learning: predictive modeling, NLP, and real-world deployment.
 
-📊 Data Visualization — transforming insights into intuitive, visual narratives.
+📊 Data Visualization: transforming insights into intuitive, visual narratives.
 
-☁️ Cloud & Automation — Azure ML, CI/CD, containerized ML pipelines.
+☁️ Cloud & Automation: Azure ML, CI/CD, containerized ML pipelines.
 
-💬 Knowledge Sharing — mentoring, writing, and simplifying complex data topics.
+💬 Knowledge Sharing: mentoring, writing, and simplifying complex data topics.
 
-🎨 Creative Analytics — where storytelling meets science to create lasting impact.
+🎨 Creative Analytics: where storytelling meets science to create lasting impact.
 
 ## My Skills
 
@@ -44,6 +44,7 @@ Contribute to open-source projects focused on reproducible data science workflow
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"> 
+<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"> 
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"> 
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"> 
 <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff"> 
@@ -51,7 +52,6 @@ Contribute to open-source projects focused on reproducible data science workflow
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"> 
 <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"> 
@@ -61,6 +61,7 @@ Contribute to open-source projects focused on reproducible data science workflow
 <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff"> 
 <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
 <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white"> 
 
 ## GitHub Stats
 
@@ -72,4 +73,4 @@ Contribute to open-source projects focused on reproducible data science workflow
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/bonaventure-djietcheu-48ba72201/" target="_blank">King Bonas</a> </p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/bonaventure-djietcheu-48ba72201/" target="_blank">King Bonas</a> Email: djietcheubonaventure@gmail.com</p>
